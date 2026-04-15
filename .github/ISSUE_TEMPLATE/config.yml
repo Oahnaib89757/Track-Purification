@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Code Management Standard
+    url: https://github.com/Oahnaib89757/Track-Purification/blob/main/CODE_MANAGEMENT.md
+    about: Read branching and workflow rules before opening issues.
+  - name: Branching Guide
+    url: https://github.com/Oahnaib89757/Track-Purification/blob/main/BRANCHING.md
+    about: Check correct branch strategy for your issue/task.
+
