@@ -1,0 +1,38 @@
+# Local tooling
+.codex/
+.agents/
+.vscode/
+.tmp_pseudo_color_sar/
+
+# Python cache / env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# MATLAB autosave / temp
+*.asv
+*.m~
+
+# Data and large artifacts (do not track in code repo)
+manual_labeling_tracks_one_criteria/
+归档/
+ZIP文件/
+
+# Large binary formats
+*.dat
+*.csv
+*.txt
+*.mat
+*.npz
+*.npy
+*.tif
+*.tiff
+*.h5
+*.zip
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.log
+
